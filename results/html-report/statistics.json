@@ -1,0 +1,34 @@
+{
+  "Truy cập trang chủ" : {
+    "transaction" : "Truy cập trang chủ",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 101.05999999999997,
+    "medianResTime" : 61.0,
+    "minResTime" : 56.0,
+    "maxResTime" : 513.0,
+    "pct1ResTime" : 215.89999999999998,
+    "pct2ResTime" : 238.24999999999997,
+    "pct3ResTime" : 513.0,
+    "throughput" : 5.319714863283328,
+    "receivedKBytesPerSec" : 4.5292384828173216,
+    "sentKBytesPerSec" : 0.5870388472177892
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 101.05999999999997,
+    "medianResTime" : 61.0,
+    "minResTime" : 56.0,
+    "maxResTime" : 513.0,
+    "pct1ResTime" : 215.89999999999998,
+    "pct2ResTime" : 238.24999999999997,
+    "pct3ResTime" : 513.0,
+    "throughput" : 5.319714863283328,
+    "receivedKBytesPerSec" : 4.5292384828173216,
+    "sentKBytesPerSec" : 0.5870388472177892
+  }
+}
